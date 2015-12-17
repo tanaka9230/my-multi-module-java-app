@@ -10,4 +10,4 @@ and the following is another member project of the "multi-module".
 
 - https://github.com/tanaka9230/my-multi-module-web-app
 
-See and check the "pom.xml" of above 3 projects for details.
+See and check the "pom.xml" of these 3 projects for details.
